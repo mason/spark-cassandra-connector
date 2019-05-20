@@ -23,7 +23,7 @@ import org.apache.spark.unsafe.types.UTF8String
 
 /**
  * Implements [[BaseRelation]]]], [[InsertableRelation]]]] and [[PrunedFilteredScan]]]]
- * It inserts data to and scans Cassandra table. If filterPushdown is true, it pushs down
+ * It inserts data to and scans Cassandra table. If filterPushdown is true, it pushess down
  * some filters to CQL
  *
  */
